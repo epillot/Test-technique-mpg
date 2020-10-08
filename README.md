@@ -1,10 +1,10 @@
 # Test-technique-mpg
 
-# install dependencies
+### install dependencies
 npm install
 
-# install expo-cli
+### install expo-cli
 npm install -g expo-cli
 
-# run metro serveur
+### run metro serveur
 npm start
